@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="gaolili@10.11.8.140:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gaolili/deepLearning_project/Voiceprint_20201027/convNet_pytorch_speaker" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

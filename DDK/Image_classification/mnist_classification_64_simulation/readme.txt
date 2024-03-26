@@ -1,0 +1,1 @@
+分别跑了网络结构为FC+BN+Sigmoid 和 FC+BN+RELU的实验，网络结构为 FC+BN+RELU的效果更好些。论文中最终选用FC+BN+RELU的实验结果。
