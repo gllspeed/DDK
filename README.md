@@ -8,7 +8,7 @@ Download the data from Baidu Netdisk. https://pan.baidu.com/s/1uAgodlD973s6H5xg8
 
 ## Implementation of DDK Network
 
-![a]([DDK Network.png](https://github.com/gllspeed/DDK/tree/main/image-20241014162015113.png)
+![DDK Network.png](https://github.com/gllspeed/DDK/tree/main/image-20241014162015113.png)
 
 ## Usage
 
